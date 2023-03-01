@@ -30,4 +30,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: netzon/netzon-docker-dotnet-sdk:dotnet-6-node-18
+          tags: netzon/netzon-docker-dotnet-sdk:dotnet-6-node-14
